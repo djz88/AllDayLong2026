@@ -1,9 +1,9 @@
 <!-- SPDX-FileCopyrightText: 2026 AllDayLong 2026 project contributors -->
-<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
 
 # AllDayLong 2026 – 4K
 
-[![Code license: GPL-3.0-or-later](https://img.shields.io/badge/Code-GPL--3.0--or--later-blue.svg?logo=gnu)](LICENSE.md)
+[![Software and documentation license: GPL-3.0-or-later](https://img.shields.io/badge/Software_%26_docs-GPL--3.0--or--later-blue.svg?logo=gnu)](LICENSE.md)
 [![Artwork license: CC BY-SA 4.0](https://img.shields.io/badge/Artwork_license-CC_BY--SA_4.0-lightgrey.svg?logo=creativecommons&logoColor=white)](LICENSE.md)
 [![Artwork: AI-generated](https://img.shields.io/badge/Artwork-AI--generated-412991?logo=openai&logoColor=white)](docs/IMAGE-QUALITY.md)
 
@@ -84,7 +84,7 @@ Features:
 
 ### Windows 10/11
 
-Run `install-windows.ps1`.
+Run `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\install-windows.ps1`.
 
 Features:
 
@@ -121,9 +121,7 @@ This project acknowledges the original artwork and concept. If you are the origi
 
 ### Licensing
 
-The installation scripts and the current XML configuration are free software licensed under **GPL-3.0-or-later**. Distributed modifications must remain under the GPL and include the corresponding source code.
-
-Project-authored documentation is licensed under **CC BY 4.0**.
+The installation scripts, current XML configuration, build utilities, and project-authored documentation are licensed under **GPL-3.0-or-later**. Distributed modifications must remain under the GPL and include the corresponding source.
 
 The new output files `images/01.png` through `images/08.png` and the preview `preview.jpg` are provided under the [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). When redistributing them, credit **AllDayLong 2026 – 4K**, link to this project, and state that it is an AI-generated and subsequently post-processed reconstruction. Adapted versions must use the same license.
 

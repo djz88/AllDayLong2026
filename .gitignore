@@ -1,0 +1,5 @@
+# SPDX-FileCopyrightText: 2026 AllDayLong 2026 project contributors
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+/build/
+/dist/

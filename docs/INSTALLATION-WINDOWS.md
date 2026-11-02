@@ -1,5 +1,5 @@
 <!-- SPDX-FileCopyrightText: 2026 AllDayLong 2026 project contributors -->
-<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
 
 # AllDayLong 2026 – Windows 10/11
 

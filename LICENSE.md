@@ -1,42 +1,31 @@
 <!-- SPDX-FileCopyrightText: 2026 AllDayLong 2026 project contributors -->
-<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
 
 # Licensing
 
 AllDayLong 2026 – 4K uses separate licenses for software, documentation, current artwork, and historical reference material.
 
-## Software — GPL-3.0-or-later
+## Software and documentation — GPL-3.0-or-later
 
-The following files are licensed under the GNU General Public License, version 3 or any later version:
+The following software, configuration, documentation, and metadata are licensed under the GNU General Public License, version 3 or any later version:
 
+- `.gitignore`
+- `Makefile`
 - `install-gnome.sh`
 - `install-kde.sh`
 - `install-windows.ps1`
 - `config/AllDayLong-2026.xml`
-
-SPDX identifier: `GPL-3.0-or-later`
-
-The complete GPLv3 license text is available in `LICENSES/GPL-3.0-or-later.txt`. The “or later” option is granted by this notice and by the SPDX notices in the covered files.
-
-Copyright © 2026 AllDayLong 2026 project contributors.
-
-## Documentation — CC BY 4.0
-
-The following project-authored documentation and metadata are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/):
-
 - `README.md`
 - `LICENSE.md`
 - `INSTALLATION.md`
 - all Markdown files under `docs/`, including `docs/original-AllDayLong/README.md`
 - `SHA256SUMS`
 
-SPDX identifier: `CC-BY-4.0`
+SPDX identifier: `GPL-3.0-or-later`
 
-The complete license text is available in `LICENSES/CC-BY-4.0.txt`.
+The complete GPLv3 license text is available in `LICENSES/GPL-3.0-or-later.txt`. The “or later” option is granted by this notice and by the SPDX notices in the covered files.
 
-Recommended attribution:
-
-> AllDayLong 2026 – 4K documentation, AllDayLong 2026 project contributors. Licensed under CC BY 4.0.
+Copyright © 2026 AllDayLong 2026 project contributors.
 
 ## Current artwork — CC BY-SA 4.0
 
@@ -53,7 +42,7 @@ You may share and adapt these files, including for commercial purposes, provided
 
 Recommended attribution:
 
-> AllDayLong 2026 – 4K, an AI-generated and post-processed reconstruction of the historical AllDayLong wallpaper; original author unknown. Licensed under CC BY-SA 4.0.
+> AllDayLong 2026 – 4K, AI-generated and post-processed artwork by AllDayLong 2026 project contributors; based on the historical AllDayLong wallpaper, original author unknown. Licensed under CC BY-SA 4.0.
 
 ## Historical reference files — license unknown
 
