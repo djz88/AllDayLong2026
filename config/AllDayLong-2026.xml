@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- SPDX-FileCopyrightText: 2026 AllDayLong 2026 project contributors -->
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<background>
+  <starttime>
+    <year>2026</year>
+    <month>01</month>
+    <day>01</day>
+    <hour>0</hour>
+    <minute>0</minute>
+    <second>0</second>
+  </starttime>
+  <static>
+    <duration>16200.0</duration>
+    <file>images/08.png</file>
+  </static>
+  <transition type="overlay">
+    <duration>6300.0</duration>
+    <from>images/08.png</from>
+    <to>images/01.png</to>
+  </transition>
+  <transition type="overlay">
+    <duration>4500.0</duration>
+    <from>images/01.png</from>
+    <to>images/02.png</to>
+  </transition>
+  <transition type="overlay">
+    <duration>7200.0</duration>
+    <from>images/02.png</from>
+    <to>images/03.png</to>
+  </transition>
+  <transition type="overlay">
+    <duration>10800.0</duration>
+    <from>images/03.png</from>
+    <to>images/04.png</to>
+  </transition>
+  <transition type="overlay">
+    <duration>10800.0</duration>
+    <from>images/04.png</from>
+    <to>images/05.png</to>
+  </transition>
+  <transition type="overlay">
+    <duration>7200.0</duration>
+    <from>images/05.png</from>
+    <to>images/06.png</to>
+  </transition>
+  <transition type="overlay">
+    <duration>7200.0</duration>
+    <from>images/06.png</from>
+    <to>images/07.png</to>
+  </transition>
+  <transition type="overlay">
+    <duration>5400.0</duration>
+    <from>images/07.png</from>
+    <to>images/08.png</to>
+  </transition>
+  <static>
+    <duration>10800.0</duration>
+    <file>images/08.png</file>
+  </static>
+</background>
